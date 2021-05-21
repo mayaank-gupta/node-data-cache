@@ -28,7 +28,7 @@ Clone this project.
 Install the dependencies and start the server.
 
 ```sh
-cd dillinger
+cd node-data-cache
 npm install
 node index.js
 ```
